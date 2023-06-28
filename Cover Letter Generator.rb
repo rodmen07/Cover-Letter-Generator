@@ -18,7 +18,7 @@ def coverLetterGenerator()
     The program provided me with a solid foundation in software engineering and demonstrated my ability to quickly learn and adapt to new technologies.
     To get a better understanding of my abilities, I invite you to review my portfolio of ongoing projects on GitHub: https://github.com/rodmen07/Portfolio. I greatly appreciate any feedback you may have.
     Furthermore, my previous experience in Financial Operations has equipped me with valuable skills in project management, process development, problem-solving, and meticulous attention to detail. I believe that these skills, combined with my newfound expertise in software engineering, make me an excellent fit for this role at #{companyName}.
-    I am genuinely enthusiastic about the opportunity to contribute to [Company Name]'s success and bring my passion for software development to the team. Thank you for considering my application. I look forward to the possibility of discussing my qualifications further.
+    I am genuinely enthusiastic about the opportunity to contribute to #{companyName}'s success and bring my passion for software development to the team. Thank you for considering my application. I look forward to the possibility of discussing my qualifications further.
 
     Best regards,
     Roderick Mendoza"
